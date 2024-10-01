@@ -1,3 +1,11 @@
+# Hey!
+
+_I didn't create this package! I forked it from [Paradem/bridgetown-dato](https://github.com/Paradem/bridgetown-dato)_
+
+_I published it on [NPM - bridgetown-dato](https://www.npmjs.com/package/bridgetown-dato) so we can avoid ugly Yarn Registry errors!_
+
+----
+
 # Sample plugin for Bridgetown
 
 _NOTE: This isn't a real plugin! Copy this sample code and use it to create your own Ruby gem! [Help guide here…](https://www.bridgetownrb.com/docs/plugins)_ 😃
